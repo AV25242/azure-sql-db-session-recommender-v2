@@ -28,7 +28,7 @@ A fully working, production ready, version of this sample, that has been used at
 
 ![Retrieval Augmented Generator flow](./_docs/rag.png)
 
-This repository is a evoution of the [Session Recommender](https://github.com/azure-samples/azure-sql-db-session-recommender) sample. In addition to vector search, also Retrieval Augmented Generation (RAG) is used to generate the response to the user query. If you are completely new to this topic, you may want to start there, and then come back here.
+This repository is a evolution of the [Session Recommender](https://github.com/azure-samples/azure-sql-db-session-recommender) sample. In addition to vector search, also Retrieval Augmented Generation (RAG) is used to generate the response to the user query. If you are completely new to this topic, you may want to start there, and then come back here.
 
 ![Architecture Diagram](./_docs/session-recommender-architecture.png)
 
